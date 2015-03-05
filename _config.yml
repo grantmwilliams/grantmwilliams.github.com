@@ -11,7 +11,7 @@ highlighter: pygments
 title : Grant Williams
 tagline: Site Tagline
 author :
-  name : 
+  #name : 
   email : grant.williams@okstate.edu
   github : grantmwilliams
    
