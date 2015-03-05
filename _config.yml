@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Grant Williams
+title : A Physics Major Learns to Code
 tagline: Site Tagline
 author :
-  #name : 
+  name : Grant Williams 
   email : grant.williams@okstate.edu
   github : grantmwilliams
    
